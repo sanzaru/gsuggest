@@ -1,4 +1,6 @@
 <?php
+  require_once 'gSuggest.php';
+
   /*
    * Usage example for the gSuggest class.
    * The german Google will we searched for the keyword "javacoffee"
